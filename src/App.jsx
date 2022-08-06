@@ -1,3 +1,5 @@
+import "./styles/global.css"
+
 export function App() {
-  throw new Error('Eita Giovana, o forminho')
+  return(<h1>Olá mundo</h1>)
 }
